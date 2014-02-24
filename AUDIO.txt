@@ -1,0 +1,126 @@
+<html>
+<head>
+<title>Practica2</title>
+<body bgcolor="red">
+</head>
+
+<body bgcolor="WHITE">
+
+
+
+<table border="2" style="width:800px">
+<tr>
+	<td>#</td>
+	<td>Titulo</td>
+	<td><Artista</td>
+	<td>Reproductor</td>
+</tr>
+<tr>
+	<td>1</td>
+	<td>Me gustas mucho</td>
+	<td>Codigo FN</td>
+	<td><audio src="01 me gustas mucho.mp3" controls autoplay loop> Tu navegador no soporta audio</audio></td>
+</tr>
+<tr>
+	<td>2</td>
+	<td>Odio</td>
+	<td>Romeo Santos</td>
+	<td><audio src="romeo santos - odio feat drake(2).mp3" controls autoplay loop> Tu navegador no soporta audio</audio></td>
+</tr>
+<tr>
+	<td>3</td>
+	<td>Estoy Muerta </td>
+	<td>Deejay Norihega</td>
+	<td><audio src="Deejay Norihega   Estoy Muerta ( Halloween Special Mix ).mp3" controls autoplay loop> Tu navegador no soporta audio</audio></td>
+</tr>
+<tr>
+	<td>4</td>
+	<td>Love Me</td>
+	<td>Lil Wayne</td>
+	<td><audio src="Lil Wayne - Love Me (Explicit) ft. Drake, Future.mp3" controls autoplay loop> Tu navegador no soporta audio</audio></td>
+</tr>
+<tr>
+	<td>5</td>
+	<td>Jeremiah Lyrics</td>
+	<td>Birthday Sex</td>
+	<td><audio src="Birthday Sex-Jeremiah with lyrics.mp3" controls autoplay loop> Tu navegador no soporta audio</audio></td>
+</tr>
+<tr>
+	<td>6</td>
+	<td>Banda San Juan</td>
+	<td>claro</td>
+	<td><audio src="claro(3).mp3" controls autoplay loop> Tu navegador no soporta audio</audio></td>
+</tr>
+<tr>
+	<td>7</td>
+	<td>Deejay Norihega</td>
+	<td>Wana Wana (Licuado Demente mix 2013 PVT)</td>
+	<td><audio src="Deejay Norihega   Wana Wana (Licuado Demente mix 2013 PVT) fina.mp3" controls autoplay loop> Tu navegador no soporta audio</audio></td>
+</tr>
+<tr>
+	<td>8</td>
+	<td>Banda Tierra Sagrada</td>
+	<td>El bueno y el Malo</td>
+	<td><audio src="el bueno y el malo(3).mp3" controls autoplay loop> Tu navegador no soporta audio</audio></td>
+</tr>
+<tr>
+	<td>9</td>
+	<td>Pitbull</td>
+	<td>Timber</td>
+	<td><audio src="-pitbull_feat _kesha--timber-e5096ff8e9da0415e0db913d884cb7d6-61e40fec.mp3" controls autoplay loop> Tu navegador no soporta audio</audio></td>
+</tr>
+<tr>
+	<td>10</td>
+	<td>Redfoo</td>
+	<td>et's get ridiculous</td>
+	<td><audio src="redfoo - let's get ridiculous (www flowhot net).mp3" controls autoplay loop> Tu navegador no soporta audio</audio></td>
+</tr>
+<table border="2" style="width:800px">
+<tr>
+	<td>#</td>
+	<td>Titulo</td>
+	<td><Nombre</td>
+	<td>Video</td>
+</tr>
+<tr>
+        <td>1</td>
+        <td>Los mejores video cortos</td>
+        <td>tipo</td>
+        <td><video src=".mp4" controls></video></td> 
+</tr>
+<tr>
+        <td>1</td>
+        <td>Los mejores video cortos</td>
+        <td>tipo</td>
+        <td><video src=".mp4" controls></video></td> 
+</tr>
+<tr>
+        <td>1</td>
+        <td>Los mejores video cortos</td>
+        <td>tipo</td>
+        <td><video src=".mp4" controls></video></td> 
+</tr>
+<tr>
+        <td>1</td>
+        <td>Los mejores video cortos</td>
+        <td>tipo</td>
+        <td><video src=".mp4" controls></video></td> 
+</tr>
+<tr>
+        <td>1</td>
+        <td>Los mejores video cortos</td>
+        <td>tipo</td>
+        <td><video src=".mp4" controls></video></td> 
+</tr>
+<tr>
+        <td>1</td>
+        <td>Los mejores video cortos</td>
+        <td>tipo</td>
+        <td><video src=".mp4" controls></video></td> 
+</tr>
+</table>
+
+
+</body>
+</html>
+
